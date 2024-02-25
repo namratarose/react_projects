@@ -1,0 +1,14 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+button:hover{
+  background-color: rgb(47, 96, 255);
+  transform:scale(1.1);
+  transition: ease-in-out;
+  transition-duration: 0.02s;
+
+}
